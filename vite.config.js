@@ -22,7 +22,7 @@ export default defineConfig({
         short_name: "Jeux",
         description: "Application de recherche de jeux vidéos",
         theme_color: "#ffffff",
-        start_url: '/games-directory/',
+        start_url: 'https://tristandeschamp.github.io/games-directory/',
         display: 'standalone',
         background_color: '#ffffff',
 
